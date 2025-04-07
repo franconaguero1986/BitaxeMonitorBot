@@ -1,4 +1,4 @@
-Bitaxe Monitoring Bot Tutorial
+Bitaxe Monitoring Bot Tutorial:
 This tutorial guides you through setting up an ESP32-based Telegram bot to monitor two
 Bitaxe mining devices. The bot provides real-time status updates, daily reports, and
 share statistics, with a customizable command interface. Follow these steps to configure
